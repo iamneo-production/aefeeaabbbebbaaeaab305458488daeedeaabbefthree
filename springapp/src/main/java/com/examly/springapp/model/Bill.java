@@ -1,5 +1,4 @@
 package com.examly.springapp.model;
-import java.lang.annotation.Inherited;
 
 @Entity
 @Table(name="BILLS")
